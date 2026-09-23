@@ -1,0 +1,18 @@
+# DemeRadio 94.9 FM - Dependencias del Proyecto
+# Python >= 3.10 recomendado
+
+# Google Gemini API SDK oficial
+google-genai>=1.0.0
+
+# Gestión de Entorno y Configuración
+python-dotenv>=1.0.1
+pydantic>=2.6.0
+
+# Motor de Síntesis de Audio (TTS) y Reproducción
+edge-tts>=6.1.12
+gTTS>=2.5.1
+pygame>=2.5.2
+
+# Utilidades de CLI y visualización
+rich>=13.7.1
+aiofiles>=23.2.1

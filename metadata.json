@@ -1,0 +1,6 @@
+{
+  "name": "DemeRadio 94.9 FM - Locutor Oficial",
+  "description": "Emisora oficial y generador de intervenciones de radio para la comunidad de Demenishki con locutor virtual IA, soundboard y motor de voz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
